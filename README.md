@@ -10,6 +10,16 @@ A collection of dumped runtime headers.
     </thead>
     <tbody>
         <tr>
+            <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/13/13.7.tar.gz">13.7</a></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+        </tr>
+        <tr>
             <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/14/14.3.tar.gz">14.3</a></td>
             <td width="70" align="center"></td>
             <td width="70" align="center"></td>

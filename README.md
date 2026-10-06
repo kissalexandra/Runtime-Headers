@@ -10,7 +10,17 @@ A collection of dumped runtime headers.
     </thead>
     <tbody>
         <tr>
-            <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/13/13.7.tar.gz">13.7</a></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/11/11.3.tar.gz">11.3</a></td>
+            <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/11/11.4.tar.gz">11.4</a></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+        </tr>
+        <tr>
+            <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/12/12.0.tar.gz">12.0</a></td>
             <td width="70" align="center"></td>
             <td width="70" align="center"></td>
             <td width="70" align="center"></td>
@@ -20,19 +30,29 @@ A collection of dumped runtime headers.
             <td width="70" align="center"></td>
         </tr>
         <tr>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/13/13.7.tar.gz">13.7</a></td>
+        </tr>
+        <tr>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
             <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/14/14.3.tar.gz">14.3</a></td>
             <td width="70" align="center"></td>
             <td width="70" align="center"></td>
             <td width="70" align="center"></td>
             <td width="70" align="center"></td>
-            <td width="70" align="center"></td>
-            <td width="70" align="center"></td>
-            <td width="70" align="center"></td>
         </tr>
         <tr>
+            <td width="70" align="center"></td>
+            <td width="70" align="center"></td>
             <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/15/15.2.tar.gz">15.2</a></td>
-            <td width="70" align="center"></td>
-            <td width="70" align="center"></td>
             <td width="70" align="center"></td>
             <td width="70" align="center"></td>
             <td width="70" align="center"></td>

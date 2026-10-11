@@ -10,9 +10,9 @@ A collection of dumped runtime headers.
     </thead>
     <tbody>
         <tr>
-            <td width="70" align="center"></td>
-            <td width="70" align="center"></td>
-            <td width="70" align="center"></td>
+            <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/11/11.0.tar.gz">11.0</a></td>
+            <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/11/11.1.tar.gz">11.1</a></td>
+            <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/11/11.2.tar.gz">11.2</a></td>
             <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/11/11.3.tar.gz">11.3</a></td>
             <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/11/11.4.tar.gz">11.4</a></td>
             <td width="70" align="center"></td>

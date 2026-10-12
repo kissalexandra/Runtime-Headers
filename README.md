@@ -21,10 +21,10 @@ A collection of dumped runtime headers.
         </tr>
         <tr>
             <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/12/12.0.tar.gz">12.0</a></td>
-            <td width="70" align="center"></td>
-            <td width="70" align="center"></td>
-            <td width="70" align="center"></td>
-            <td width="70" align="center"></td>
+            <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/12/12.1.tar.gz">12.1</a></td>
+            <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/12/12.2.tar.gz">12.2</a></td>
+            <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/12/12.3.tar.gz">12.3</a></td>
+            <td width="70" align="center"><a href="https://github.com/kissalexandra/Runtime-Headers/raw/refs/heads/main/iOS/12/12.4.tar.gz">12.4</a></td>
             <td width="70" align="center"></td>
             <td width="70" align="center"></td>
             <td width="70" align="center"></td>
